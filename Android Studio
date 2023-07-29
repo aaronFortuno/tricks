@@ -1,3 +1,5 @@
 Build fail with Android Studio Flamingo, Kotlin related dependencies:
 https://gist.github.com/danielcshn/7aa57155d766d46c043fde015f054d40
 
+
+requireContext() instead of "this" when requiring context in Fragments.
