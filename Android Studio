@@ -7,3 +7,9 @@ requireContext() instead of "this" when requiring context in Fragments.
 
 List of EditText input types and parameters
 https://gist.github.com/lopspower/ff2fec6c16991c072495
+
+=======
+COMPOSE
+=======
+
+https://www.jetpackcomposeversion.com/ -> check Kotlin-Compose compatibility
