@@ -13,3 +13,5 @@ COMPOSE
 =======
 
 https://www.jetpackcomposeversion.com/ -> check Kotlin-Compose compatibility
+
+https://developer.android.com/reference/kotlin/androidx/compose/material/package-summary -> List of composables, properties...
